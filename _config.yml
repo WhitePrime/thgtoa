@@ -1,0 +1,56 @@
+markdown: kramdown
+kramdown: 
+  hard_wrap: false
+plugins:
+  - jekyll-relative-links
+  - jekyll-sitemap
+  - jekyll-seo-tag
+relative_links:
+  enabled: true
+  collections: true
+title: The Hitchhiker's Guide to Online Anonymity
+description: The Hitchhiker's Guide to Online Anonymity
+tagline: The Hitchhiker's Guide to Online Anonymity
+author: AnonymousPlanet
+theme: jekyll-theme-hacker
+github:
+  home_url: index.html
+  pdf_url: guide.pdf
+  pdf_dark_url: guide-dark.pdf
+  odt_url: guide.odt
+  guide_url: guide.html
+  donations_url: donations.html
+  changelog_url: CHANGELOG.html
+  license_url: LICENSE.html
+  about_url: about.html
+  twitter_url: https://twitter.com/AnonyPla
+  keybase_url: https://keybase.io/anonymousplanet
+  keyoxide_url: https://keyoxide.org/eb16b6ab4ab7ba61f33e2dfd0051e9a589dab601
+  mastodon_url: https://mastodon.social/@anonypla
+  tor_mirror_url: http://thgtoa7imksbg7rit4grgijl2ef6kc7b56bp56pmtta4g354lydlzkqd.onion
+  services_url: services.html
+defaults:
+  -
+    scope:
+      path: "" 
+    values:
+      layout: default
+      sitemap: true
+locale: "en-US"
+twitter:
+  username: AnonyPla
+  card: summary
+author:
+  name: AnonymousPlanet
+  twitter: AnonyPla
+social:
+  name: AnonymousPlanet
+  links:
+    - https://twitter.com/anonypla
+    - https://keybase.io/anonymousplanet
+    - https://github.com/anonymousplanet
+    - https://mastodon.social/@anonypla
+    - https://keyoxide.org/eb16b6ab4ab7ba61f33e2dfd0051e9a589dab601
+include: 
+    - LICENSE.md
+    - about.md

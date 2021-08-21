@@ -1,0 +1,5 @@
+Gemfile.lock
+jekyll-theme-hacker.gemspec
+Gemfile
+_site/
+*.gem
