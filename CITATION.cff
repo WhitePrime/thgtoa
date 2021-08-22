@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this guide, please cite it as below."
+authors:
+  - family-names: Planet
+    given-names: Anonymous
+    orcid: https://orcid.org/0000-0002-4367-9581
+title: "The Hitchhiker’s Guide to Online Anonymity"
+keywords: 
+  - Privacy
+  - Anonymity
+license: "CC-BY-NC-4.0"
+version: 1.0.1
+date-released: 2021-08-21
