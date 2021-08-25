@@ -1,6 +1,6 @@
 Welcome to the home of The Hitchhiker’s Guide to Online Anonymity.
 
-This is a maintained guide with the aim of providing introduction to various online tracking techniques, online id verification techniques and guidance to creating and maintaining anonymous online identities including social media accounts safely and legally.<span style="color: red">**It is written with hope for activists, journalists, scientists, lawyers, whistle-blowers, and good people being oppressed/censored anywhere!**</span> No prerequisites besides basic knowledge of English and technology and some common acronyms regarding technology.
+This is a maintained guide with the aim of providing introduction to various online tracking techniques, online id verification techniques and guidance to creating and maintaining anonymous online identities including social media accounts safely and legally. <span style="color: red">**It is written with hope for activists, journalists, scientists, lawyers, whistle-blowers, and good people being oppressed/censored anywhere!**</span> No prerequisites besides basic knowledge of English and technology and some common acronyms regarding technology.
 
 This guide is an open-source non-profit initiative, [licensed](LICENSE.html) under **Creative Commons Attribution-NonCommercial 4.0 International** ([cc-by-nc-4.0] <sup>[[Archive.org]][8]</sup>) and is not sponsored/endorsed by any commercial/governmental entity. This means that you are free to use my guide for pretty much any purpose **excluding commercially** as long as you do attribute it.
 
