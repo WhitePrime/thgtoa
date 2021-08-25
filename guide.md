@@ -113,7 +113,7 @@ Finally note that:
         -   [Skills:]
         -   [Adversarial considerations:]
     -   [Steps for all routes:]
-        -   [Get used to use better passwords:]
+        -   [Get used to using better passwords:]
         -   [Get an anonymous Phone number:]
         -   [Get an USB key:]
         -   [Find some safe places with decent public Wi-Fi:]
@@ -769,7 +769,7 @@ The IMEI and IMSI can be traced back to you by at least six ways:
 
 Here is also a good YouTube video on this topic: DEFCON Safe Mode - Cooper Quintin - Detecting Fake 4G Base Stations in Real Time <https://www.youtube.com/watch?v=siCk4pGGcqA> <sup>[[Invidious]][76]</sup>
 
-**For these reasons, it is crucial to get dedicated an anonymous phone number and/or an anonymous burner phone with an anonymous pre-paid sim card that are not tied to you in any way (past or present) for conducting sensitive activities (See more practical guidance in [Get an anonymous Phone number][Get used to use better passwords:] section).**
+**For these reasons, it is crucial to get dedicated an anonymous phone number and/or an anonymous burner phone with an anonymous pre-paid sim card that are not tied to you in any way (past or present) for conducting sensitive activities (See more practical guidance in [Get an anonymous Phone number][Get used to using better passwords:] section).**
 
 While there are some smartphones manufacturers like Purism with their Librem series[^89] who claim to have your privacy in mind, they still do not allow IMEI randomization which I believe is a key anti-tracking feature that should be provided by such manufacturers. While this measure will not prevent IMSI tracking within the SIM card, it would at least allow you to keep the same "burner phone" and only switch SIM cards instead of having to switch both for privacy.
 
@@ -1813,7 +1813,7 @@ You might be asking yourself: "How do I know if I'm in a hostile online environm
 
 ## Steps for all routes:
 
-### Get used to use better passwords:
+### Get used to using better passwords:
 
 See [Appendix A2: Guidelines for passwords and passphrases].
 
@@ -12720,7 +12720,7 @@ Also please consider reading: **<https://github.com/monero-project/monero/blob/m
   [Skills:]: #skills
   [Adversarial considerations:]: #adversarial-considerations
   [Steps for all routes:]: #steps-for-all-routes
-  [Get used to use better passwords:]: #get-used-to-use-better-passwords
+  [Get used to using better passwords:]: #get-used-to-using-better-passwords
   [Get an anonymous Phone number:]: #get-an-anonymous-phone-number
   [Get an USB key:]: #get-an-usb-key
   [Find some safe places with decent public Wi-Fi:]: #find-some-safe-places-with-decent-public-wi-fi
