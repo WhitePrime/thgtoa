@@ -135,12 +135,12 @@ input:checked + .slider::before {
 {% seo %}
   </head>
   <body style="transition: all 0.5s ease;">
-    <header>
+	<header>
       <div class="container" style="position: relative;">
         <div class="theme-switch-wrapper">
           <!-- Icon -->
           <span id="toggle-icon">
-            <i id="themeicon" class="fas fa-sun"></i>
+            <i id="themeicon" class="fas fa-sun"><svg enable-background="new 0 0 24 24" height="24px" viewBox="0 0 24 24" width="24px" fill="#000000"><rect fill="none" height="24" width="24"></rect><path d="M12,3c-4.97,0-9,4.03-9,9s4.03,9,9,9s9-4.03,9-9c0-0.46-0.04-0.92-0.1-1.36c-0.98,1.37-2.58,2.26-4.4,2.26 c-2.98,0-5.4-2.42-5.4-5.4c0-1.81,0.89-3.42,2.26-4.4C12.92,3.04,12.46,3,12,3L12,3z"></path></svg></i>
           </span>
           <!-- Switch -->
           <label class="theme-switch">
@@ -149,35 +149,33 @@ input:checked + .slider::before {
           </label>
         </div>
         <a id="a-title">
-			<h1>The Hitchhiker’s Guide to Online Anonymity</h1>
+			<h1><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Автостопом по анонимности в Интернете</font></font></h1>
         </a>
-        <h2>How I learned to start worrying and love <del>privacy</del> anonymity</h2>
-		<h4 class="project-version">Latest Version is v1.0.1. See the <a href="{{ site.github.changelog_url }}" style="color:#ff4700">changelog.</a></h4>
+        <h2><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Как я научился беспокоиться и любить </font></font><del><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Конфиденциальность</font></font></del><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> анонимность</font></font></h2>
+		<h4 class="project-version"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Последняя версия - v1.0.1. </font><font style="vertical-align: inherit;">См. </font></font><a href="CHANGELOG.html" style="color:#ff4700"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Журнал изменений.</font></font></a></h4>
         <section id="downloads">
-			{% if page.url != "/" %}
-				<a href="{{ site.github.home_url }}" class="btn_small">Home</a>
-			{% endif %}
-			{% if page.url != "/guide.html" %}
-				<a href="{{ site.github.guide_url }}" class="btn_small">View Online</a>
-			{% endif %}
-				<a href="{{ site.github.pdf_url }}" class="btn_small">PDF (Light)</a>
-				<a href="{{ site.github.pdf_dark_url }}" class="btn_small">PDF (Dark)</a>
-				<a href="{{ site.github.odt_url }}" class="btn_small">OpenDocument</a>
-			{% if page.url != "/donations.html" %}
-				<a href="{{ site.github.donations_url }}" class="btn_small">Donate</a>
-			{% endif %}
-				<a href="{{ site.github.repository_url }}" target="_blank" class="btn_small">Repository</a>
-				<a href="{{ site.github.keyoxide_url }}" target="_blank" class="btn_small">Keyoxide</a>
-				<a href="{{ site.github.twitter_url }}" target="_blank" class="btn_small">Twitter</a>
-				<a rel="me" href="{{ site.github.mastodon_url }}" target="_blank" class="btn_small">Mastodon</a>
-			{% if page.url != "/about.html" %}
-				<a href="{{ site.github.about_url }}" class="btn_small">About</a>
-			{% endif %}
+			
+			
+				<a href="guide.html" class="btn_small"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Просмотр в Интернете</font></font></a>
+			
+				<a href="guide.pdf" class="btn_small"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PDF (светлый)</font></font></a>
+				<a href="guide-dark.pdf" class="btn_small"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">PDF (Темный)</font></font></a>
+				<a href="guide.odt" class="btn_small"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">OpenDocument</font></font></a>
+			
+				<a href="donations.html" class="btn_small"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Пожертвовать</font></font></a>
+			
+				<a href="https://github.com/WhitePrime/thgtoa" target="_blank" class="btn_small"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Репозиторий</font></font></a>
+				<a href="https://keyoxide.org/eb16b6ab4ab7ba61f33e2dfd0051e9a589dab601" target="_blank" class="btn_small"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Keyoxide</font></font></a>
+				<a href="https://twitter.com/AnonyPla" target="_blank" class="btn_small"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Твиттер</font></font></a>
+				<a rel="me" href="https://mastodon.social/@anonypla" target="_blank" class="btn_small"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Мастодонт</font></font></a>
+			
+				<a href="about.html" class="btn_small"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">О</font></font></a>
+			
         </section>
 		<!--<section id="services">
-				<a href="{{ site.github.services_url }}" class="btn_small_small">Services</a>
+				<a href="services.html" class="btn_small_small">Services</a>
 		</section> -->
-		<h5>GPG Key Fingerprint: EB16 B6AB 4AB7 BA61 F33E  2DFD 0051 E9A5 89DA B601</h5>
+		<h5><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Отпечаток ключа GPG: EB16 B6AB 4AB7 BA61 F33E 2DFD 0051 E9A5 89DA B601</font></font></h5>
 		<noscript><p class="jswarning">JavaScript is required to toggle light mode. JavaScript is not used for any other purpose.</p></noscript>
       </div>
     </header>
