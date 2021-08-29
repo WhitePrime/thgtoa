@@ -1,56 +1,56 @@
-Welcome to the home of The Hitchhiker’s Guide to Online Anonymity.
+Добро пожаловать в "Автостопом" по анонимности в Интернете.
 
-This is a maintained guide with the aim of providing introduction to various online tracking techniques, online id verification techniques and guidance to creating and maintaining anonymous online identities including social media accounts safely and legally. <span style="color: red">**It is written with hope for activists, journalists, scientists, lawyers, whistle-blowers, and good people being oppressed/censored anywhere!**</span> No prerequisites besides basic knowledge of English and technology and some common acronyms regarding technology.
+Это постоянно обновляемое руководство, целью которого является введение в различные методы онлайн-отслеживания, методы онлайн-проверки идентификаторов и руководство по безопасному и законному созданию и поддержанию анонимных онлайн-идентификаторов, включая учетные записи в социальных сетях. <span style = "color: red"> ** Он написан с надеждой на то, что активистов, журналистов, ученых, юристов, разоблачителей и хороших людей где-либо притесняют / подвергают цензуре! ** </span> Никаких предпосылок, кроме базовых знаний английского языка и технологий, а также некоторые общие сокращения, касающиеся технологий.
 
-This guide is an open-source non-profit initiative, [licensed](LICENSE.html) under **Creative Commons Attribution-NonCommercial 4.0 International** ([cc-by-nc-4.0] <sup>[[Archive.org]][8]</sup>) and is not sponsored/endorsed by any commercial/governmental entity. This means that you are free to use my guide for pretty much any purpose **excluding commercially** as long as you do attribute it.
+Это руководство является некоммерческой инициативой с открытым исходным кодом, [лицензированной] (LICENSE.html) в соответствии с ** Creative Commons Attribution-NonCommercial 4.0 International ** ([cc-by-nc-4.0] <sup> [[Archive.org ]] [8] </sup>) и не спонсируется / не поддерживается какой-либо коммерческой / государственной организацией. Это означает, что вы можете использовать мое руководство практически для любых целей ** за исключением коммерческих **, если вы указываете его.
 
-The latest version is **1.0.1**, See the [changelog](CHANGELOG.html). If you want to see the changes between your PDF and the latest PDF, you could use this online tool <https://tools.pdf24.org/en/compare-pdf>.
+Последняя версия - ** 1.0.1 **. См. [Журнал изменений] (CHANGELOG.html). Если вы хотите увидеть различия между вашим PDF-файлом и последней версией PDF-файла, вы можете использовать этот онлайн-инструмент <https://tools.pdf24.org/en/compare-pdf>.
 
-This project is also supporting the Tor Project by currently running three Tor Exit nodes to help others. 
-See the nodes here: <https://metrics.torproject.org/rs.html#search/family:970814F267BF3DE9DFF2A0F8D4019F80C68AEE26>
+Этот проект также поддерживает проект Tor, в настоящее время запустив три узла Tor Exit, чтобы помочь другим. 
+См. Узлы здесь: <https://metrics.torproject.org/rs.html#search/family:970814F267BF3DE9DFF2A0F8D4019F80C68AEE26>
 
-**If you'd like to make a donation to help this project, you can do so from [here](donations.html) where you'll also find the project goals.
-All the donations will be strictly used within the context of this project. All donations are logged on the donations page (inbound and outbound).**
+** Если вы хотите сделать пожертвование для помощи этому проекту, вы можете сделать это [здесь] (donations.html), где вы также найдете цели проекта.
+Все пожертвования будут использоваться строго в рамках этого проекта. Все пожертвования регистрируются на странице пожертвований (входящие и исходящие). **
 
-Latest Online HTML versions at:
-- Main: <https://anonymousplanet.org/guide.html> <sup>[[Archive.org]][6]</sup> <sup>[[Archive.today]][7]</sup>
-- Mirror: <https://mirror.anonymousplanet.org/guide.html>
-- IPFS Mirror: <https://ipfs.anonymousplanet.org>
-- Tor Mirror: <http://thgtoa7imksbg7rit4grgijl2ef6kc7b56bp56pmtta4g354lydlzkqd.onion/guide.html> 
+Последние онлайн-версии HTML по адресу:
+- Основной: <https://anonymousplanet.org/guide.html> <sup> [[Archive.org]] [6] </sup> <sup> [[Archive.today]] [7] </sup>
+- Зеркало: <https://mirror.anonymousplanet.org/guide.html>
+- Зеркало IPFS: <https://ipfs.anonymousplanet.org>
+- Зеркало Tor: <http://thgtoa7imksbg7rit4grgijl2ef6kc7b56bp56pmtta4g354lydlzkqd.onion/guide.html> 
 
-Latests PDF versions at:
-- Light Theme: <https://anonymousplanet.org/guide.pdf> <sup>[[Mirror]][1]</sup> <sup>[[Archive.org]][2]</sup> 
-- Light Theme over Tor: <http://thgtoa7imksbg7rit4grgijl2ef6kc7b56bp56pmtta4g354lydlzkqd.onion/guide.pdf> 
-- Dark Theme: <https://anonymousplanet.org/guide-dark.pdf> <sup>[[Mirror]][3]</sup> <sup>[[Archive.org]][4]</sup> 
-- Dark Theme over Tor: <http://thgtoa7imksbg7rit4grgijl2ef6kc7b56bp56pmtta4g354lydlzkqd.onion/guide-dark.pdf>
-- All latest PDFs are also available on CryptPad.fr at <https://cryptpad.fr/drive/#/2/drive/view/Ughm9CjQJCwB8BIppdtvj5zy4PyE-8Gxn11x9zaqJLI/>
+Последние версии PDF по адресу:
+- Светлая тема: <https://anonymousplanet.org/guide.pdf> <sup> [[Зеркало]] [1] </sup> <sup> [[Archive.org]] [2] </sup> 
+- Светлая тема поверх Tor: <http://thgtoa7imksbg7rit4grgijl2ef6kc7b56bp56pmtta4g354lydlzkqd.onion/guide.pdf> 
+- Темная тема: <https://anonymousplanet.org/guide-dark.pdf> <sup> [[Зеркало]] [3] </sup> <sup> [[Archive.org]] [4] </ sup > 
+- Темная тема над Tor: <http://thgtoa7imksbg7rit4grgijl2ef6kc7b56bp56pmtta4g354lydlzkqd.onion/guide-dark.pdf>
+- Все последние PDF-файлы также доступны на CryptPad.fr по адресу <https://cryptpad.fr/drive/#/2/drive/view/Ughm9CjQJCwB8BIppdtvj5zy4PyE-8Gxn11x9zaqJLI/>
 
-Latest OpenDocument Text version at: <https://anonymousplanet.org/guide.odt> <sup>[[Mirror]][5]</sup> <sup>[[Archive.org]][9]</sup> <sup>[[Tor Mirror]][10]</sup> 
+Последняя версия OpenDocument Text находится по адресу: <https://anonymousplanet.org/guide.odt> <sup> [[Mirror]] [5] </sup> <sup> [[Archive.org]] [9] </ sup > <sup> [[Tor Mirror]] [10] </sup> 
 
-The guide and all the files are also readily available on Archive.org and Archive.today: 
+Руководство и все файлы также доступны на Archive.org и Archive.today: 
 
 - Archive.org: <https://web.archive.org/web/https://anonymousplanet.org/>
 - Archive.today: <https://archive.fo/anonymousplanet.org/>
-- Archive.today over Tor: <http://archivecaslytosk.onion/anonymousplanet.org/>
+- Archive.today над Tor: <http://archivecaslytosk.onion/anonymousplanet.org/>
 
-**If you want to check the files for integrity, safety, authenticity, please refer to this ["How To"](verify.html).**
+** Если вы хотите проверить файлы на целостность, безопасность и подлинность, обратитесь к этому ["Как сделать"] (verify.html). **
 
-Feel free to submit issues using Github Issues.
+Не стесняйтесь сообщать о проблемах с помощью Github Issues.
 
-Follow or contact me on: 
+Следуйте за мной или свяжитесь со мной по: 
 - Twitter: <https://twitter.com/AnonyPla>
-- Mastodon: <https://mastodon.social/@anonypla>
-- Element/Matrix.org: ```@anonypla:tchncs.de``` **(@anonypla:matrix.org and @anonypla:envs.net are currently out of order)**
+- Мастодонт: <https://mastodon.social/@anonypla>
+- Element / Matrix.org: `` @anonypla: tchncs.de`` ** (@ anonypla: matrix.org и @anonypla: envs.net в настоящее время не работают) **
 - Reddit: <https://old.reddit.com/message/compose/?to=AnonyPla>
-- E-Mail: <contact@anonymousplanet.org>
+- Электронная почта: <contact@anonymousplanet.org>
 
-Discussion Channels:
-- Matrix: ```#online-anonymity:matrix.org``` <https://matrix.to/#/#online-anonymity:matrix.org>
-- Github Discussions: <https://github.com/AnonymousPlanet/thgtoa/discussions>
+Каналы обсуждения:
+- Матрица: `` # online-anonymity: matrix.org`` <https://matrix.to/#/#online-anonymity:matrix.org>
+- Обсуждения Github: <https://github.com/AnonymousPlanet/thgtoa/discussions>
 
-Criticism, opinions, ideas are welcome! The ultimate intent is to not have any inaccuracies in the guide.
+Критика, мнения, идеи приветствуются! Конечная цель - не допускать неточностей в руководстве.
 
-Have a good read and feel free to share/recommend it!
+Внимательно прочтите и не стесняйтесь делиться / рекомендовать!
 
 [cc-by-nc-4.0]: https://creativecommons.org/licenses/by-nc/4.0/
 [1]: https://mirror.anonymousplanet.org/guide.pdf 
